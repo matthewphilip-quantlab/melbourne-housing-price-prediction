@@ -1,0 +1,26 @@
+Rooms
+Distance
+Bathroom
+Car
+Landsize
+BuildingArea
+YearBuilt
+Propertycount
+Year
+Month
+Quarter
+Suburb_Encoded
+CouncilArea_Encoded
+Type_t
+Type_u
+Method_S
+Method_SA
+Method_SP
+Method_VB
+Regionname_Eastern Victoria
+Regionname_Northern Metropolitan
+Regionname_Northern Victoria
+Regionname_South-Eastern Metropolitan
+Regionname_Southern Metropolitan
+Regionname_Western Metropolitan
+Regionname_Western Victoria
